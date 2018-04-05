@@ -1,0 +1,26 @@
+.pokemon-info{
+  width: 300px;
+}
+.pokemon-list {
+  display: flex;
+  flex-wrap: wrap;
+
+  .pokemon-item {
+    max-width: 80px;
+    border: 4px solid #2e2e2e;
+    background-color: #424242;
+    position: relative;
+
+    .delete {
+      position: absolute;
+      right: 2px;
+      top: 2px;
+      cursor: pointer;
+    }
+    img {
+      display: block;
+      width: 80px;
+      height: 80px;
+    }
+  }
+}

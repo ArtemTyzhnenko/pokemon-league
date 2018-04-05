@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,eAAgB;EACZ,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY",
+"sources": ["PokemonLeague.scss"],
+"names": [],
+"file": "PokemonLeague.css"
+}
